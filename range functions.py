@@ -1,0 +1,2 @@
+for i in range(1, 8, 1):    # print from 1 -> till 8(so prints till 7) -> ???????????
+    print(i)
